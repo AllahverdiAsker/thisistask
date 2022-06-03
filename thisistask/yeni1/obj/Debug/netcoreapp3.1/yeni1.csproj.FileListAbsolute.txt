@@ -1,0 +1,14 @@
+C:\Users\BAKU\source\repos\thisistask\yeni1\bin\Debug\netcoreapp3.1\yeni1.exe
+C:\Users\BAKU\source\repos\thisistask\yeni1\bin\Debug\netcoreapp3.1\yeni1.deps.json
+C:\Users\BAKU\source\repos\thisistask\yeni1\bin\Debug\netcoreapp3.1\yeni1.runtimeconfig.json
+C:\Users\BAKU\source\repos\thisistask\yeni1\bin\Debug\netcoreapp3.1\yeni1.runtimeconfig.dev.json
+C:\Users\BAKU\source\repos\thisistask\yeni1\bin\Debug\netcoreapp3.1\yeni1.dll
+C:\Users\BAKU\source\repos\thisistask\yeni1\bin\Debug\netcoreapp3.1\yeni1.pdb
+C:\Users\BAKU\source\repos\thisistask\yeni1\obj\Debug\netcoreapp3.1\yeni1.csproj.AssemblyReference.cache
+C:\Users\BAKU\source\repos\thisistask\yeni1\obj\Debug\netcoreapp3.1\yeni1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAKU\source\repos\thisistask\yeni1\obj\Debug\netcoreapp3.1\yeni1.AssemblyInfoInputs.cache
+C:\Users\BAKU\source\repos\thisistask\yeni1\obj\Debug\netcoreapp3.1\yeni1.AssemblyInfo.cs
+C:\Users\BAKU\source\repos\thisistask\yeni1\obj\Debug\netcoreapp3.1\yeni1.csproj.CoreCompileInputs.cache
+C:\Users\BAKU\source\repos\thisistask\yeni1\obj\Debug\netcoreapp3.1\yeni1.dll
+C:\Users\BAKU\source\repos\thisistask\yeni1\obj\Debug\netcoreapp3.1\yeni1.pdb
+C:\Users\BAKU\source\repos\thisistask\yeni1\obj\Debug\netcoreapp3.1\yeni1.genruntimeconfig.cache

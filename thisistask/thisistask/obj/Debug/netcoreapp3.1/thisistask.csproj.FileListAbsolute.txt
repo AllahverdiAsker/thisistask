@@ -1,0 +1,10 @@
+C:\Users\BAKU\source\repos\thisistask\thisistask\bin\Debug\netcoreapp3.1\thisistask.deps.json
+C:\Users\BAKU\source\repos\thisistask\thisistask\bin\Debug\netcoreapp3.1\thisistask.dll
+C:\Users\BAKU\source\repos\thisistask\thisistask\bin\Debug\netcoreapp3.1\thisistask.pdb
+C:\Users\BAKU\source\repos\thisistask\thisistask\obj\Debug\netcoreapp3.1\thisistask.csproj.AssemblyReference.cache
+C:\Users\BAKU\source\repos\thisistask\thisistask\obj\Debug\netcoreapp3.1\thisistask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAKU\source\repos\thisistask\thisistask\obj\Debug\netcoreapp3.1\thisistask.AssemblyInfoInputs.cache
+C:\Users\BAKU\source\repos\thisistask\thisistask\obj\Debug\netcoreapp3.1\thisistask.AssemblyInfo.cs
+C:\Users\BAKU\source\repos\thisistask\thisistask\obj\Debug\netcoreapp3.1\thisistask.csproj.CoreCompileInputs.cache
+C:\Users\BAKU\source\repos\thisistask\thisistask\obj\Debug\netcoreapp3.1\thisistask.dll
+C:\Users\BAKU\source\repos\thisistask\thisistask\obj\Debug\netcoreapp3.1\thisistask.pdb
